@@ -1,0 +1,2 @@
+Alternativa B) Looping infinito
+Pois na linha 5 a variavel num está sendo somado a 0, não incrementando e mantendo no while infinitamente.
